@@ -26,7 +26,7 @@ I performed this analysis by:
 ### Outcomes Based on Launch Date
 According to the results of this graph and table, it tells us two things:
 1. The most successful months to launch a Kickstarter campaign are May and June.
-2. The month with the highest rate of failure is October.  
+2. The month with the lowest success rate is December.   
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/95246572/147142987-8b21e684-aad5-4e21-824a-2617e273c446.png)
 
 ### Outcomes Based on Goals
