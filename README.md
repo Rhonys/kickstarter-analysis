@@ -1,7 +1,10 @@
-# An Analysis of Kickstarter Campaigns
-Analyzing Kickstarter data to understand trends of successful and failed campaigns, and recommending attributes of successful campaigns using visualizations and descriptive statistics
-Client - Louise is seeking to start a Kickstarter campaign for a play in London and wants to know what she needs to do to be successful. Based on my analysis, conducting a Kickstarter campaign in Theater gives you the highest chance of success.![Picture1](https://user-images.githubusercontent.com/95246572/146454573-2421b169-951e-4198-88b3-3248564e9e64.png)
- and a campaign for a play also has the highest evidence of success. ![Picture3](https://user-images.githubusercontent.com/95246572/146454589-3854f9c1-0c7c-4c81-a020-fcf1142fc87b.png)
-It is also recommended to conduct your campaign in either May or June ![Picture2](https://user-images.githubusercontent.com/95246572/146454601-5f82e488-d86e-4f7d-afe4-af0455c7bf93.png)
-and have it last for 30-60 days. The average goal of successful campaigns are $5000 or less, with most campaigns increasing in failure rate up until $8000 where anything above generally fails. The average pledge is $5602, with the bottom 25th percentile being $1717. The average donation of a successful campaign is $93 while bottom 25th percentile beign $52. The average number of backers is 63, with the lowest 25th percentile being 23. 
-If the campaigns goals remain with these parameters, it has the highest chance of being successful. 
+# **Kickstarter Campaigns Success Analysis**
+##Overview
+The purpose of this analysis is to provide the client, Louise, with data on past kickstarter campaigns in order to identify the attributes of successful kickstarters, so that they may increase the likelihood of success on a Kickstarter campaign.
+##Analysis and Challenges
+I performed this analysis by filtering the data set for successful, domestic, theater campaigns by date and goal amount. I created more granular columns to further detail column statistics by segregating category and subcategory, converting unix data into a readable standard date, ![image]![Unix translate](https://user-images.githubusercontent.com/95246572/147137968-1ada1065-0b58-4e4d-b0ee-32b069bc8c52.png)
+
+
+
+identifying average donations and percentage funded. The biggest difficulty was in identifying the percentage successful or failed given the goal amount. This required creating ranges from 1000 to 50000 with increments of 4999 and creating a countif formula to populate the correct information. Once the ranges were established
+
