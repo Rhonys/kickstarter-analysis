@@ -18,7 +18,7 @@ I performed this analysis by:
 ![GoalRange](https://user-images.githubusercontent.com/95246572/147145905-ea893bd2-7572-4087-ba62-e3caa154478b.png)
 2. 
 
- 
+  
 
 
 
