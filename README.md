@@ -26,9 +26,12 @@ I performed this analysis by:
 ### Outcomes Based on Launch Date
 According to the results of this graph and table, it tells us two things:
 1. The most successful months to launch a Kickstarter campaign are May and June.
-2. The length of time most associated with success is a 1 month campaign. 
+2. The month with the highest rate of failure is October.  
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/95246572/147142987-8b21e684-aad5-4e21-824a-2617e273c446.png)
 
 ### Outcomes Based on Goals
 The most successful goal ranges were less than $5000, which also had the highest volume of kickstarter campaigns. 
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/95246572/147142998-464f390f-5d8b-4e17-8857-c6ae62fb3c92.png)
+
+### Limitations and Recommendations
+The original dataset needed further filtering and formulas to understand certain values. Once additional column data was created, it enabled further detailed analysis. An additional recommended chart for this data would be to showcase average length of time by successful campaigns to showcase a recommended time frame for a potential Kickstarter. 
