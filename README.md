@@ -16,16 +16,9 @@ The biggest difficulty was in identifying the percentage successful or failed gi
 I performed this analysis by:
 1. Creating a goal range and utilizing a countif formula to calculate the percentages of success or failure. 
 ![GoalRange](https://user-images.githubusercontent.com/95246572/147145905-ea893bd2-7572-4087-ba62-e3caa154478b.png)
-2. 
-
-  
-
-
-
-3. Identifying average donations ![AvgDonate](https://user-images.githubusercontent.com/95246572/147138652-dfa3d404-0d18-4afe-be2f-d0e4424cac52.png)
-4. and percentage funded.![percentfunded](https://user-images.githubusercontent.com/95246572/147138514-c0c11688-60dc-4e6c-8593-84efe04ff0a1.png)
-
-  ![countif](https://user-images.githubusercontent.com/95246572/147138898-8452cfd2-f9eb-4928-83a9-cacc6576c222.png)
+2. Identifying average donations ![AvgDonate](https://user-images.githubusercontent.com/95246572/147138652-dfa3d404-0d18-4afe-be2f-d0e4424cac52.png)
+3. and percentage funded.
+![countif](https://user-images.githubusercontent.com/95246572/147138898-8452cfd2-f9eb-4928-83a9-cacc6576c222.png)
 
 According to the results of this graph and table, it tells us two things:
 1. The most successful months to launch a Kickstarter campaign are May and June.
