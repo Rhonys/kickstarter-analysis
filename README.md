@@ -1,7 +1,7 @@
 # **Kickstarter Campaigns Success Analysis**
 ## Overview
 ### Purpose
-The purpose of this analysis is to provide the client, Louise, with data on past kickstarter campaigns in order to identify the attributes of successful kickstarters, so that they may implement and increase the likelihood of success on a Kickstarter campaign they may conduct in the future. 
+The purpose of this analysis is to provide the client, Louise, with data on past kickstarter campaigns in order to identify the attributes of successful kickstarters, so that they may implement these characteristics and increase the likelihood of success on a Kickstarter campaign they may conduct in the future. 
 ## Analysis and Challenges
 I performed this analysis by filtering the data set for successful, domestic, theater campaigns by date and goal amount. I created more granular columns to further detail column statistics by:
 1. Segregating category and subcategory 
@@ -17,7 +17,7 @@ According to the results of this graph and table, it tells us two things:
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/95246572/147142987-8b21e684-aad5-4e21-824a-2617e273c446.png)
 
 ### Analysis of Outcomes Based on Goals
-The second highest percentage, but highest volume of successful campaigns had a goal range between $1000 to $4900, with the highest percentage and second highest volume had a goal of less than $1000.
+The most successful goal ranges were less than $5000, which also had the highest volume of kickstarter campaigns. 
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/95246572/147142998-464f390f-5d8b-4e17-8857-c6ae62fb3c92.png)
 
 ## Results
